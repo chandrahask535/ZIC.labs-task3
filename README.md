@@ -56,7 +56,7 @@ This code uses the K-Nearest Neighbors (KNN) algorithm, which is a simple and ef
 1. The confusion matrix was calculated to evaluate the accuracy of the KMeans clustering.
 2. The confusion matrix was plotted using `matplotlib.pyplot.imshow` and `plt.text` to visualize the true and predicted labels.
 
-# Display the confusion matrix using seaborn
+# Confusion matrix using seaborn
 
 A confusion matrix is used to describe the performance of a classification model on a set of test data for which the true values are known. It is a way to visualize the performance of a classification algorithm. The confusion matrix is particularly useful in evaluating the performance of a model in terms of its ability to correctly and incorrectly classify instances.
   
